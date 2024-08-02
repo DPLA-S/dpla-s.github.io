@@ -2,15 +2,11 @@ var template = {
     "navbar": [
         {
             "title": "Home",
-            "link": "/"
-        },
-        {
-            "title": "About",
-            "link": "/about"
+            "link": "/index.html"
         },
         {
             "title": "Contact",
-            "link": "/contact"
+            "link": "/contact.html"
         }
     ],
     "extranavbar": [

@@ -4,8 +4,8 @@ body {
 }
 
 :root {
-    --theme: #ff6060;
-    --theme-alt: #b84343;
+    --theme: #4095E7;
+    --theme-alt: #263C66;
 }
 
 a {
@@ -102,6 +102,6 @@ footer {
 }
 
 #logo{
-    background: rgb(231,64,64);
-background: linear-gradient(90deg, rgba(231,64,64,1) 0%, rgba(0,240,255,0) 70%);
+    background: var(--theme);
+background: linear-gradient(90deg, var(--theme) 0%, rgba(0,240,255,0) 70%);
 }
